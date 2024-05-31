@@ -29,7 +29,7 @@ $pdo = require 'connect.php'; -->
 // } -->
 
 
-<!DOCTYPE>
+<!DOCTYPE html>
 
 <html>
 
