@@ -1,9 +1,9 @@
-## Lớp triều tượng (abstract class)
+## Lớp trừu tượng (abstract class)
 
-- Lớp triều tượng là lớp mà không thể tạo đối tượng từ lớp đó.
-- Lớp triều tượng chứa ít nhất một phương thức trừu tượng.
+- Lớp trừu tượng là lớp mà không thể tạo đối tượng từ lớp đó.
+- Lớp trừu tượng chứa ít nhất một phương thức trừu tượng.
 - Phương thức trừu tượng là phương thức mà không có cài đặt.
-- Một lớp kế thừa từ lớp triều tượng phải cài đặt tất cả các phương thức trừu tượng của lớp cha.
+- Một lớp kế thừa từ lớp trừu tượng phải cài đặt tất cả các phương thức trừu tượng của lớp cha.
 
 ```<?php
 abstract class Person{
