@@ -1,5 +1,4 @@
 <?php
-// database.php
 $pdo = require 'connect.php';
 
 $statements = [
@@ -39,4 +38,3 @@ foreach ($statements as $statement) {
         echo 'Error executing statement: ' . $e->getMessage();
     }
 }
-

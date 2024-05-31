@@ -88,7 +88,7 @@ $pdo = require 'connect.php'; -->
         <h3>Customer Users</h3>
         <div class="row">
             <div class="col-12 table-responsive">
-                <table class="table table-hover table-bordered  table-striped">
+                <table class="table table-hover table-bordered table-striped">
                     <thead>
                         <tr>
                             <th>Name</th>
